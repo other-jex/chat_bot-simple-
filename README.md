@@ -1,5 +1,5 @@
 # Chatbot 🤖  
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="72" height="72" alt="Animated robot icon" />
+
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
@@ -24,3 +24,4 @@ Handles greetings, small talk, jokes, and graceful fallbacks with randomized res
 git clone https://github.com/<your-username>/<your-repo>.git
 cd <your-repo>
 python chatbot.py
+
